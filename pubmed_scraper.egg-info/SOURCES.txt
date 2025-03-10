@@ -1,0 +1,10 @@
+README.md
+setup.py
+pubmed_scraper.egg-info/PKG-INFO
+pubmed_scraper.egg-info/SOURCES.txt
+pubmed_scraper.egg-info/dependency_links.txt
+pubmed_scraper.egg-info/entry_points.txt
+pubmed_scraper.egg-info/requires.txt
+pubmed_scraper.egg-info/top_level.txt
+pubmed_scrapper/__init__.py
+pubmed_scrapper/fetch_pubmed.py

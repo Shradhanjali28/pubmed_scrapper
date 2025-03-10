@@ -1,0 +1,2 @@
+[console_scripts]
+pubmed_scraper = cli:main
